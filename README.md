@@ -22,8 +22,8 @@ brs.get_links_site_by_category(category) #(needs a try catch because sometime is
 brs.get_summary(link)
 
 # to get all data from a recipe based on specific recipe link
-get_recipe(link)
+brs.get_recipe(link)
 
 # to get all recipes and their information from a category
-get_recipe_data_by_interval(category, links, start, end)
+brs.get_recipe_data_by_interval(category, links, start, end)
 ```

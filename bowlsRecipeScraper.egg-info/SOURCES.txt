@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+bowlsRecipeScraper/__init__.py
+bowlsRecipeScraper/bowlsRecipeScraper.py
+bowlsRecipeScraper.egg-info/PKG-INFO
+bowlsRecipeScraper.egg-info/SOURCES.txt
+bowlsRecipeScraper.egg-info/dependency_links.txt
+bowlsRecipeScraper.egg-info/top_level.txt

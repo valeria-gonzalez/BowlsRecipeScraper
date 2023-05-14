@@ -1,9 +1,9 @@
 # Usage
 
-Can find at: https://test.pypi.org/project/bowlsRecipeScraper/0.0.1/
+Can find at: https://test.pypi.org/project/bowlsRecipeScraper/
 
 ```
-#before-hand use: pip install -i https://test.pypi.org/simple/ bowlsRecipeScraper==0.0.1
+#before-hand use: pip install -i https://test.pypi.org/simple/ bowlsRecipeScraper
 from bowlsRecipeScraper import bowlsRecipeScraper as brs
 
 # connect to website using selenium and web driver

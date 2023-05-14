@@ -101,7 +101,10 @@ def get_links_site_by_category(category):
     driver = connect(url)
     
     #collect links
-    links = get_links_from_site(driver, num_pages)
+    try: 
+        links = get_links_from_site(driver, num_pages)
+    except:
+        links = []
     
     return links
 
